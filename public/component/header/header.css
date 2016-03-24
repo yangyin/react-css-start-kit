@@ -1,0 +1,14 @@
+/**
+* header 组件
+* prefix header-
+*/
+.header-wrap {
+  text-align: center;
+  line-height: 40px;
+  background: #009CD5;
+}
+
+.header-title {
+  color: #fff;
+  font-size: 14px;
+}
