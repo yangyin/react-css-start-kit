@@ -1,7 +1,7 @@
 {
-  "name": "react-start-kit",
+  "name": "react-css-start-kit",
   "version": "1.0.0",
-  "description": "this is a simple react",
+  "description": "this is a simple react+css",
   "main": "app.js",
   "scripts": {
     "start": "npm run dev",
